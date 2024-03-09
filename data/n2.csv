@@ -165,7 +165,7 @@
 1161170,"一往","いちおう","once,tentatively,in outline,for the time being","jmdict","一応"
 1164690,"一段","いちだん","greater,more,further,still more","waller",
 1167270,"一流","いちりゅう","first class,top grade,foremost,top-notch","waller",
-1585390,"佚","いつ","be lost,peace,hide,mistake,beautiful,in turn","waller",
+1585390,"佚","いつ","being comfortable,relaxing","waller",
 1576050,"一昨日","いっさくじつ","day before yesterday","waller",
 1576060,"一昨年","いっさくねん","year before last","waller",
 1164040,"一斉","いっせい","simultaneous,all at once","waller",
@@ -531,8 +531,8 @@
 1226610,"却って","かえって","on the contrary,rather,all the more,instead","waller",
 1226610,,"かえって","on the contrary,rather,all the more,instead","jmdict","却って"
 1589780,"代える","かえる","to exchange,to interchange,to substitute,to replace","waller",
-1512150,"反る","かえる","to warp,to be warped,to curve","waller",
-1512150,"返る","かえる","to warp,to be warped,to curve","jmdict","反る"
+1512150,"反る","かえる","to return,to come back","waller",
+1512150,"返る","かえる","to return,to come back","jmdict","反る"
 1191780,"家屋","かおく","house,building","waller",
 1589880,"係わる","かかわる","to concern oneself in,to have to do with,to affect,to influence,to stick to (opinions)","waller",
 1589880,"関わる","かかわる","to concern oneself in,to have to do with,to affect,to influence,to stick to (opinions)","jmdict","係わる"
@@ -636,9 +636,9 @@
 1187870,"仮定","かてい","assumption,supposition,hypothesis","waller",
 1196270,"過程","かてい","process","waller",
 1195850,"課程","かてい","course,curriculum","waller",
-1590540,"仮名","かな","(n) alias,pseudonym,pen name","waller",
-1590540,"仮字","かな","(n) alias,pseudonym,pen name","jmdict","仮名"
-1590540,"假名","かな","(n) alias,pseudonym,pen name","jmdict","仮名"
+1590540,"仮名","かな","kana,Japanese syllabary (i.e. hiragana, katakana)","waller",
+1590540,"仮字","かな","kana,Japanese syllabary (i.e. hiragana, katakana)","jmdict","仮名"
+1590540,"假名","かな","kana,Japanese syllabary (i.e. hiragana, katakana)","jmdict","仮名"
 1188100,"仮名遣い","かなづかい","kana orthography,syllabary spelling","waller",
 1188100,"仮名遣","かなづかい","kana orthography,syllabary spelling","jmdict","仮名遣い"
 1188100,"かな遣い","かなづかい","kana orthography,syllabary spelling","jmdict","仮名遣い"
@@ -852,8 +852,8 @@
 1244050,"句読点","くとうてん","punctuation marks","waller",
 1472990,"配る","くばる","to distribute,to deliver","waller",
 1472990,"賦る","くばる","to distribute,to deliver","jmdict","配る"
-1278220,"工夫","くふう","labourer,worker","waller",
-1278220,"功夫","くふう","labourer,worker","jmdict","工夫"
+1278220,"工夫","くふう","devising (a way),contriving,inventing,device","waller",
+1278220,"功夫","くふう","devising (a way),contriving,inventing,device","jmdict","工夫"
 1244230,"区分","くぶん","division,section,classification","waller",
 1592290,"組合せ","くみあわせ","combination","waller",
 1592290,"組み合わせ","くみあわせ","combination","jmdict","組合せ"
@@ -1633,7 +1633,7 @@
 1475720,"迫る","せる","to draw near,to press","jmdict","せまる"
 1475720,"逼る","せまる","to draw near,to press","jmdict","迫る"
 1075160,,"ゼミ","(n) seminar","waller",
-1006570,,"せめて","offense,method of attack","waller",
+1006570,,"せめて","at least,at most","waller",
 1279130,"攻める","せめる","to attack,to assault","waller",
 1074740,,"セメント","cement","waller",
 1956550,"栓","せん","stopper,cork,stopcock","waller",
@@ -1702,15 +1702,15 @@
 1006850,"その為","そのため","hence,for that reason","jmdict","そのため"
 1006850,"其の為","そのため","hence,for that reason","jmdict","そのため"
 1006850,"其のため","そのため","hence,for that reason","jmdict","そのため"
-1006900,,"そのほか","otherwise","waller",
-1006900,"その他","そのほか","otherwise","jmdict","そのほか"
-1006900,"その他","そのた","otherwise","jmdict","そのほか"
-1006900,"その外","そのほか","otherwise","jmdict","そのほか"
-1006900,"その外","そのた","otherwise","jmdict","そのほか"
-1006900,"其の他","そのほか","otherwise","jmdict","そのほか"
-1006900,"其の他","そのた","otherwise","jmdict","そのほか"
-1006900,"其の外","そのほか","otherwise","jmdict","そのほか"
-1006900,"其の外","そのた","otherwise","jmdict","そのほか"
+1006900,,"そのほか","the rest,in addition","waller",
+1006900,"その他","そのほか","the rest,in addition","jmdict","そのほか"
+1006900,"その他","そのた","the rest,in addition","jmdict","そのほか"
+1006900,"その外","そのほか","the rest,in additionrwise","jmdict","そのほか"
+1006900,"その外","そのた","the rest,in addition","jmdict","そのほか"
+1006900,"其の他","そのほか","the rest,in addition","jmdict","そのほか"
+1006900,"其の他","そのた","the rest,in addition","jmdict","そのほか"
+1006900,"其の外","そのほか","the rest,in additionherwise","jmdict","そのほか"
+1006900,"其の外","そのた","the rest,in addition","jmdict","そのほか"
 1238460,"蕎麦","そば","soba (buckwheat noodles)","waller",
 1238460,,"そば","soba (buckwheat noodles)","jmdict","蕎麦"
 1238460,,"そばむぎ","soba (buckwheat noodles)","jmdict","蕎麦"
@@ -2085,7 +2085,7 @@
 1449670,"統一","とういつ","unity,consolidation,uniformity","waller",
 1452000,"同格","どうかく","the same rank,equality,apposition","waller",
 1454420,"峠","とうげ","ridge,(mountain) pass,difficult part","waller",
-1449710,"統計","とうけい","scattering,a scatter,dispersion","waller",
+1449710,"統計","とうけい","statistics","waller",
 1451350,"動作","どうさ","action,movements,motions,bearing,behaviour,manners","waller",
 1447910,"東西","とうざい","East and West,whole country","waller",
 1447910,"東西","ひがしにし","East and West,whole country","jmdict","とうざい"
@@ -2177,7 +2177,6 @@
 1598890,"飛びこむ","とびこむ","to jump in,to leap in,to plunge into,to dive","jmdict","飛び込む"
 1598890,"飛込む","とびこむ","to jump in,to leap in,to plunge into,to dive","jmdict","飛び込む"
 1429700,"跳ぶ","とぶ","to jump,to fly,to leap","waller",
-1310620,"留まる","とまる","(1) to be fixed,(2) to abide,to stay (in the one place)","waller",
 1474860,"泊める","とめる","to give shelter to,to lodge","waller",
 1444010,,"ともかく","anyhow,anyway,somehow or other,generally speaking,in any case","waller",
 1444010,"兎も角","ともかく","anyhow,anyway,somehow or other,generally speaking,in any case","jmdict","ともかく"
@@ -2229,7 +2228,6 @@
 1599500,"謎謎","なぞなぞ","riddle,puzzle,enigma","waller",
 1599500,,"なぞなぞ","riddle,puzzle,enigma","jmdict","謎謎"
 1599500,"謎々","なぞなぞ","riddle,puzzle,enigma","jmdict","謎謎"
-1632290,"傾らか","なだらか",,"waller",
 1632290,,"なだらか",,"jmdict","傾らか"
 1200490,"懐かしい","なつかしい","dear,desired,missed","waller",
 1498290,"撫でる","なでる","to brush gently,to stroke","waller",
@@ -2417,8 +2415,8 @@
 1625780,,"はじめまして","How do you do?,I am glad to meet you","waller",
 1625780,"初めまして","はじめまして","How do you do?,I am glad to meet you","jmdict","はじめまして"
 1625780,"始めまして","はじめまして","How do you do?,I am glad to meet you","jmdict","はじめまして"
-2085880,"斜","はす",,"waller",
-2085880,"斜","しゃ",,"jmdict","はす"
+2085880,"斜","はす","diagonal","waller",
+2085880,"斜","しゃ","diagonal","jmdict","はす"
 1203310,"外れる","はずれる","to be disconnected,to get out of place,to be off,to be out (e.g. of gear)","waller",
 1101600,,"パターン","pattern","waller",
 1101600,,"パタン","pattern","jmdict","パターン"
@@ -2453,7 +2451,6 @@
 1194580,"煙火","はなび","fireworks","jmdict","花火"
 1194570,"花嫁","はなよめ","bride","waller",
 1516540,"放れる","はなれる","to leave,to get free,to cut oneself off","waller",
-1171680,"羽根","はね","shuttlecock","waller",
 1099490,,"ばね","spring (e.g. coil, leaf)","waller",
 1099490,"発条","ばね","spring (e.g. coil, leaf)","jmdict","ばね"
 1099490,,"ぜんまい","spring (e.g. coil, leaf)","jmdict","ばね"
@@ -2827,10 +2824,10 @@
 1520570,"防犯","ぼうはん","prevention of crime","waller",
 1517100,"方面","ほうめん","direction,district,field (e.g., of study)","waller",
 1519060,"坊や","ぼうや","boy","waller",
-1516530,"放る","ほうる","to let go","waller",
-1516530,"放る","ほる","to let go","jmdict","ほうる"
-1516530,"抛る","ほうる","to let go","jmdict","放る"
-1516530,"抛る","ほる","to let go","jmdict","放る"
+1516530,"放る","ほうる","to throw,to neglect,to leave alone","waller",
+1516530,"放る","ほる","to throw,to neglect,to leave alone","jmdict","ほうる"
+1516530,"抛る","ほうる","to throw,to neglect,to leave alone","jmdict","放る"
+1516530,"抛る","ほる","to throw,to neglect,to leave alone","jmdict","放る"
 1123520,,"ボーナス","bonus","waller",
 1123520,,"ボナス","bonus","jmdict","ボーナス"
 1560710,"朗らか","ほがらか","brightness,cheerfulness,melodious","waller",
@@ -3029,7 +3026,7 @@
 1535340,"目覚し","めざまし","(abbr) alarm-clock","waller",
 1535340,"目覚まし","めざまし","(abbr) alarm-clock","jmdict","目覚し"
 1535340,"目ざまし","めざまし","(abbr) alarm-clock","jmdict","目覚し"
-1535320,"目下","めした","at present,now","waller",
+1535320,"目下","めした","subordinate,inferior,junior","waller",
 1535300,"目印","めじるし","mark,sign,landmark","waller",
 1535300,"目標","めじるし","mark,sign,landmark","jmdict","目印"
 1535300,"目じるし","めじるし","mark,sign,landmark","jmdict","目印"
@@ -3306,7 +3303,6 @@
 1147800,,"ロビー","lobby","waller",
 1561640,"論ずる","ろんずる","to argue,to discuss,to debate","waller",
 1561970,"和英","わえい","Japanese-English","waller",
-1606560,"分る","わかる","to be understood","waller",
 1606600,"分かれる","わかれる","to branch off,to diverge from,to fork,to split,to dispense,to scatter,to divide into","waller",
 1606600,"分れる","わかれる","to branch off,to diverge from,to fork,to split,to dispense,to scatter,to divide into","jmdict","分かれる"
 1606610,"若々しい","わかわかしい","youthful,young","waller",

@@ -348,7 +348,7 @@
 1222700,"汽車","きしゃ","steam train","waller",
 1225130,"技術","ぎじゅつ","art,technology,skill","waller",
 1222840,"季節","きせつ","season","waller",
-1223020,"規則","きそく","regulations","waller",
+1223021,"規則","きそく","regulations","waller",
 1003430,,"きっと","surely","waller",
 1003430,"屹度","きっと","surely","jmdict","きっと"
 1003430,"急度","きっと","surely","jmdict","きっと"
@@ -467,7 +467,7 @@
 1593590,,"ごちそう","a feast","waller",
 1593590,"ご馳走","ごちそう","a feast","jmdict","ごちそう"
 1593590,"御馳走","ごちそう","a feast","jmdict","ごちそう"
-2524270,,"こと","thing,matter","waller",
+1313580,,"こと","thing,matter","waller",
 1348530,"小鳥","ことり","small bird","waller",
 1004690,,"このあいだ","the other day,recently","waller",
 1004690,"この間","このあいだ","the other day,recently","jmdict","このあいだ"
@@ -692,7 +692,8 @@
 1395620,"全然","ぜんぜん","not entirely (used in a negative sentence)","waller",
 1390360,"戦争","せんそう","war","waller",
 1388410,"先輩","せんぱい","senior","waller",
-1006610,,"そう","really","waller",
+1006610,,"そう","appearing that, looking like, having the appearance of","waller",
+2137720,然う,"そう","in that way, thus, such, so, so?","waller",
 1401210,"相談","そうだん","to discuss","waller",
 1160570,"育てる","そだてる","to rear,to bring up","waller",
 1405890,"卒業","そつぎょう","graduation","waller",
@@ -759,10 +760,12 @@
 1634500,,"たまに","occasionally","waller",
 1634500,"偶に","たまに","occasionally","jmdict","たまに"
 1634500,"適に","たまに","occasionally","jmdict","たまに"
-1157080,"為","ため","in order to","waller",
-1157080,,"ため","in order to","jmdict","為"
-1157080,"爲","ため","in order to","jmdict","為"
-1157080,"為め","ため","in order to","jmdict","為"
+1157080,"為","ため","sake, purpose, consequence, result, regarding","waller",
+1157080,,"ため","sake, purpose, consequence, result, regarding","jmdict","為"
+1157080,"爲","ため","sake, purpose, consequence, result, regarding","jmdict","為"
+1157080,"為め","ため","sake, purpose, consequence, result, regarding","jmdict","為"
+1157150,"為に","ために","for the sake of, in order to, in favor of, because of","waller",
+1157150,"爲に","ために","for the sake of, in order to, in favor of, because of","waller",
 1409110,,"だめ","no good","waller",
 1409110,"駄目","だめ","no good","jmdict","だめ"
 1409110,,"ダメ","no good","jmdict","だめ"
@@ -1152,7 +1155,7 @@
 1363090,"申す","もうす","(humble) to be called,to say","waller",
 2015610,,"もうすぐ","soon","waller",
 2015610,"もう直ぐ","もうすぐ","soon","jmdict","もうすぐ"
-2607730,,"もし","if","waller",
+1012500,,"もし","if","waller",
 1535780,,"もちろん","of course","waller",
 1535780,"勿論","もちろん","of course","jmdict","もちろん"
 1293700,"最も","もっとも","extremely","waller",

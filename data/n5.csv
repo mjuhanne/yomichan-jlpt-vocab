@@ -115,10 +115,13 @@
 1296400,,"ある","to be,to have (used for inanimate objects)","jmdict","有る"
 1296400,"在る","ある","to be,to have (used for inanimate objects)","jmdict","有る"
 1514320,"歩く","あるく","to walk","waller",
-2847612,,"あれ","that","waller",
-2847612,,"あれっ","that","jmdict","あれ"
-2847612,,"あれえ","that","jmdict","あれ"
-2847612,,"あれー","that","jmdict","あれ"
+2847612,,"あれ","huh?,what?,oh!,hey!,look!","waller",
+2847612,,"あれっ","huh?,what?,oh!,hey!,look!","jmdict","あれ"
+2847612,,"あれえ","huh?,what?,oh!,hey!,look!","jmdict","あれ"
+2847612,,"あれー","huh?,what?,oh!,hey!,look!","jmdict","あれ"
+2847612,,"あれー","huh?,what?,oh!,hey!,look!","jmdict","あれ"
+1000580,"彼れ","あれ","that","jmdict","あれ"
+1000580,"彼","あれ","that","jmdict","あれ"
 2820690,,"いい","good","waller",
 1605820,"良い","よい","good","waller",
 1605820,"良い","えい","good","jmdict","よい"
@@ -631,7 +634,7 @@
 1004500,,"こち","this person or way","jmdict","此方"
 1004500,"此方","こち","this person or way","jmdict","こっち・こちら"
 1004500,"此方","こっち","this person or way","waller",
-2846389,,"コップ","a glass","waller",
+1050390,,"コップ","a glass","waller",
 1579130,"今年","ことし","this year","waller",
 1579130,"今年","こんねん","this year","jmdict","ことし"
 1264540,"言葉","ことば","word, language","waller",
@@ -649,7 +652,9 @@
 1270590,"ご飯","ごはん","cooked rice, meal","jmdict","御飯"
 1050590,,"コピー","to copy","waller",
 1289590,"困る","こまる","to be worried","waller",
-2216120,,"これ","This","waller",
+2216120,,"これ","Hey, come on, look, listen","waller",
+1628530,此れ,"これ","This","waller",
+1628530,此,"これ","This","waller",
 1289100,"今月","こんげつ","this month","waller",
 1289220,"今週","こんしゅう","this week","waller",
 1004880,,"こんな","Such","waller",
@@ -796,9 +801,9 @@
 1074270,,"セーター","sweater, jumper","waller",
 1074270,,"スエーター","sweater, jumper","jmdict","セーター"
 1074270,,"セエター","sweater, jumper","jmdict","セーター"
-1382590,"石鹸","せっけん","Economy","waller",
-1382590,"石けん","せっけん","Economy","jmdict","石鹸"
-1382590,"石鹼","せっけん","Economy","jmdict","石鹸"
+1382590,"石鹸","せっけん","Soap","waller",
+1382590,"石けん","せっけん","Soap","jmdict","石鹸"
+1382590,"石鹼","せっけん","Soap","jmdict","石鹸"
 1472740,"背広","せびろ","business suit","waller",
 1472740,"脊広","せびろ","business suit","jmdict","背広"
 1472740,,"セビロ","business suit","jmdict","背広"
@@ -854,16 +859,18 @@
 1403830,"端","はた","near, beside","jmdict","側"
 1245290,"空","そら","Sky","waller",
 1245290,"虚","そら","Sky","jmdict","空"
-2216210,,"それ","that","waller",
-2216210,,"それっ","that","jmdict","それ"
+2216210,,"それ","there!, look!","waller",
+2216210,,"それっ","there!, look!","jmdict","それ"
+1006970,,"それ","that","waller",
+1006970,,"それっ","that","jmdict","それ"
 1006980,,"それから","after that","waller",
 1006980,"其れから","それから","after that","jmdict","それから"
 1406050,,"それでは","in that situation","waller",
 1406050,"其れでは","それでは","in that situation","jmdict","それでは"
-1406050,,"それじゃ","in that situation","jmdict","それでは"
-1406050,"其れじゃ","それじゃ","in that situation","jmdict","それでは"
-1406050,,"それじゃあ","in that situation","jmdict","それでは"
-1406050,"其じゃあ","それじゃあ","in that situation","jmdict","それでは"
+2858616,,"それじゃ","in that situation","jmdict","それでは"
+2858616,"其れじゃ","それじゃ","in that situation","jmdict","それでは"
+2858616,,"それじゃあ","in that situation","jmdict","それでは"
+2858616,"其じゃあ","それじゃあ","in that situation","jmdict","それでは"
 1413240,"大学","だいがく","university","waller",
 1413240,"大學","だいがく","university","jmdict","大学"
 1413890,"大使館","たいしかん","embassy","waller",
@@ -918,7 +925,8 @@
 1416830,"誰","た","who","jmdict","だれ"
 1416840,"誰か","だれか","somebody","waller",
 1419110,"誕生日","たんじょうび","birthday","waller",
-2546180,,"だんだん","gradually","waller",
+1597350,段々,"だんだん","gradually","waller",
+1597350,段段,"だんだん","gradually","waller",
 1347750,"小さい","ちいさい","little","waller",
 2136180,"小さな","ちいさな","little","waller",
 1242130,"近い","ちかい","near","waller",
@@ -1046,23 +1054,12 @@
 1189360,,"どちら","which of two","waller",
 1189360,"何方","どちら","which of two","jmdict","どっち"
 1189360,"何方","どっち","which of two","jmdict","どちら"
-1189360,,"いずかた","which of two","jmdict","どっち・どちら"
-1189360,"何方","いずかた","which of two","jmdict","どっち・どちら"
-1189360,,"いずち","which of two","jmdict","どっち・どちら"
-1189360,"何方","いずち","which of two","jmdict","どっち・どちら"
+2858702,,"いずかた","which way, which direction, where","jmdict","どっち・どちら"
+2858702,"何方","いずかた","which way, which direction, where","jmdict","どっち・どちら"
+2858703,,"いずち","which way, which direction, where","jmdict","どっち・どちら"
+2858703,"何方","いずち","which way, which direction, where","jmdict","どっち・どちら"
 1189360,,"どち","which of two","jmdict","どっち・どちら"
 1189360,"何方","どち","which of two","jmdict","どっち・どちら"
-1189360,,"いずし","which of two","jmdict","どっち・どちら"
-1189360,"何方","いずし","which of two","jmdict","どっち・どちら"
-1189360,,"なにざま","which of two","jmdict","どっち・どちら"
-1189360,"何方","なにざま","which of two","jmdict","どっち・どちら"
-1189360,"孰方","どちら","which of two","jmdict","どっち"
-1189360,"孰方","どっち","which of two","jmdict","どちら"
-1189360,"孰方","いずかた","which of two","jmdict","どっち・どちら"
-1189360,"孰方","いずち","which of two","jmdict","どっち・どちら"
-1189360,"孰方","どち","which of two","jmdict","どっち・どちら"
-1189360,"孰方","いずし","which of two","jmdict","どっち・どちら"
-1189360,"孰方","なにざま","which of two","jmdict","どっち・どちら"
 1189360,,"どっち","which","waller",
 1008630,,"とても","very","waller",
 1008630,"迚も","とても","very","jmdict","とても"
@@ -1134,7 +1131,7 @@
 1508380,"双ぶ","ならぶ","to line up,to stand in a line","jmdict","並ぶ"
 1508390,"並べる","ならべる","to line up,to set up","waller",
 1508390,"双べる","ならべる","to line up,to set up","jmdict","並べる"
-2138260,,"なる","to become","waller",
+1375610,,"なる","to become","waller",
 2846738,"何","なん","what","waller",
 1577100,"何","なに","what","waller",
 1461140,"二","に","two","waller",
@@ -1382,9 +1379,7 @@
 1547330,,"ほしい","want","jmdict","欲しい"
 1125150,,"ポスト","post","waller",
 1295510,"細い","ほそい","thin","waller",
-1182880,,"ボタン","button","waller",
-1182880,,"ぼたん","button","jmdict","ボタン"
-1182880,"牡丹","ぼたん","button","jmdict","ボタン"
+1123880,,"ボタン","button","waller",
 1122650,,"ホテル","hotel","waller",
 1522150,"本","ほん","book","waller",
 1522980,"本棚","ほんだな","bookshelves","waller",
@@ -1612,7 +1607,7 @@
 1148640,,"ワイシャツ","business shirt","waller",
 1148640,"Ｙシャツ","ワイシャツ","business shirt","jmdict","ワイシャツ"
 1324300,"若い","わかい","young","waller",
-1606560,"分かる","わかる","to be understood","waller",
+1606560,"分かる","わかる","to be understood","waller",§
 1606560,,"わかる","to be understood","jmdict","分かる"
 1606560,"解る","わかる","to be understood","jmdict","分かる"
 1606560,"判る","わかる","to be understood","jmdict","分かる"
@@ -1631,3 +1626,4 @@
 1151260,"惡るい","わるい","bad","jmdict","悪い"
 1013190,,"より","Used for comparison.","waller",
 1516930,"方","ほう","Used for comparison.","waller",
+1000420,"彼の","あの","that,those,the","coto",
