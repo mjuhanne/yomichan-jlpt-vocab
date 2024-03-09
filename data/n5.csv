@@ -34,8 +34,6 @@
 1352320,"挙げる","あげる","to give","jmdict","上げる"
 1352320,"揚げる","あげる","to give","jmdict","上げる"
 1428280,"朝","あさ","morning","waller",
-1428280,"朝","あした","morning","jmdict","あさ"
-1428280,"晨","あした","morning","jmdict","朝"
 1586330,"朝御飯","あさごはん","breakfast","waller",
 1586330,"朝ご飯","あさごはん","breakfast","jmdict","朝御飯"
 1586330,"朝ごはん","あさごはん","breakfast","jmdict","朝御飯"
@@ -136,15 +134,7 @@
 1605820,"宜い","よい","good","jmdict","良い"
 1605820,"宜い","えい","good","jmdict","良い"
 1583250,,"いいえ","no","waller",
-1583250,"否","いいえ","no","jmdict","いいえ"
-1583250,,"いいや","no","jmdict","いいえ"
-1583250,"否","いいや","no","jmdict","いいえ"
 1583250,,"いえ","no","jmdict","いいえ"
-1583250,"否","いえ","no","jmdict","いいえ"
-1583250,,"いな","no","jmdict","いいえ"
-1583250,"否","いな","no","jmdict","いいえ"
-1583250,,"いや","no","jmdict","いいえ"
-1583250,"否","いや","no","jmdict","いいえ"
 1587040,"言う","いう","to say","waller",
 1587040,"言う","ゆう","to say","jmdict","いう"
 1587040,"云う","いう","to say","jmdict","言う"
@@ -157,8 +147,6 @@
 1578850,"行く","いく","to go","waller",
 1578850,,"いく","to go","jmdict","行く"
 1578850,,"ゆく","to go","jmdict","行く"
-1578850,"逝く","いく","to go","jmdict","行く"
-1578850,"逝く","ゆく","to go","jmdict","行く"
 1578850,"往く","いく","to go","jmdict","行く"
 1578850,"往く","ゆく","to go","jmdict","行く"
 1219960,,"いくつ","how many?,how old?","waller",
@@ -182,12 +170,8 @@
 1160790,"壹","いち","one","jmdict","一"
 1576260,"一日","いちにち","first of the month","waller",
 1576260,"一日","いちじつ","first of the month","jmdict","いちにち"
-1576260,"一日","ひとひ","first of the month","jmdict","いちにち"
-1576260,"一日","ひとえ","first of the month","jmdict","いちにち"
 1576260,"１日","いちにち","first of the month","jmdict","一日"
 1576260,"１日","いちじつ","first of the month","jmdict","一日"
-1576260,"１日","ひとひ","first of the month","jmdict","一日"
-1576260,"１日","ひとえ","first of the month","jmdict","一日"
 1165970,,"いちばん","best, first","waller",
 1165970,"一番","いちばん","best, first","jmdict","いちばん"
 1165970,"１番","いちばん","best, first","jmdict","いちばん"
@@ -213,7 +197,6 @@
 1587610,"嫌","や","unpleasant","jmdict","いや"
 1587610,"厭","いや","unpleasant","jmdict","嫌"
 1587610,"厭","や","unpleasant","jmdict","嫌"
-1587610,"厭や","いや","unpleasant","jmdict","嫌"
 1587610,,"イヤ","unpleasant","jmdict","嫌"
 1582820,"入口","いりぐち","entrance","waller",
 1582820,"入口","いりくち","entrance","jmdict","いりぐち"
@@ -308,7 +291,6 @@
 1002320,"御爺さん","おじいさん","grandfather, male senior citizen","jmdict","おじいさん"
 1002320,"御祖父さん","おじいさん","grandfather, male senior citizen","jmdict","おじいさん"
 1236900,"教える","おしえる","to teach, to tell","waller",
-1236900,"訓える","おしえる","to teach, to tell","jmdict","教える"
 2261490,,"おじさん","uncle, middle aged gentleman","waller",
 2261490,"伯父さん","おじさん","uncle, middle aged gentleman","jmdict","おじさん"
 2261490,"叔父さん","おじさん","uncle, middle aged gentleman","jmdict","おじさん"
@@ -335,8 +317,6 @@
 1419990,"男","おとこ","Man","waller",
 1419990,"男","おっこ","Man","jmdict","おとこ"
 1420010,"男の子","おとこのこ","Boy","waller",
-1420010,"男のコ","おとこのコ","Boy","jmdict","男の子"
-1420010,"男の児","おとこのこ","Boy","jmdict","男の子"
 1576050,"一昨日","おととい","day before yesterday","waller",
 1576050,"一昨日","おとつい","day before yesterday","jmdict","おととい"
 1576050,"一昨日","いっさくじつ","day before yesterday","jmdict","おととい"
@@ -344,7 +324,6 @@
 1576060,"一昨年","いっさくねん","year before last","jmdict","おととし"
 1576060,"おと年","おととし","year before last","jmdict","一昨年"
 1414170,"大人","おとな","Adult","waller",
-1414170,"大人","だいにん","Adult","jmdict","おとな"
 1002610,,"おなか","stomach","waller",
 1002610,"お腹","おなか","stomach","jmdict","おなか"
 1002610,"御腹","おなか","stomach","jmdict","おなか"
@@ -385,23 +364,13 @@
 1589500,"下りる","おりる","to get off, to descend","jmdict","降りる"
 1589600,"終る","おわる","to finish","waller",
 1589600,"終わる","おわる","to finish","jmdict","終る"
-1589600,"了わる","おわる","to finish","jmdict","終る"
-1589600,"卒わる","おわる","to finish","jmdict","終る"
-1589600,"畢わる","おわる","to finish","jmdict","終る"
-1589600,"竟わる","おわる","to finish","jmdict","終る"
 1589600,"了る","おわる","to finish","jmdict","終る"
 1589600,"卒る","おわる","to finish","jmdict","終る"
 1589600,"畢る","おわる","to finish","jmdict","終る"
 1589600,"竟る","おわる","to finish","jmdict","終る"
 1183720,"音楽","おんがく","Music","waller",
 1344930,"女","おんな","Woman","waller",
-1344930,"女","おみな","Woman","jmdict","おんな"
-1344930,"女","おうな","Woman","jmdict","おんな"
-1344930,"女","うみな","Woman","jmdict","おんな"
-1344930,"女","おな","Woman","jmdict","おんな"
 1344970,"女の子","おんなのこ","Girl","waller",
-1344970,"女のコ","おんなのコ","Girl","jmdict","女の子"
-1344970,"女の児","おんなのこ","Girl","jmdict","女の子"
 1203620,"外国","がいこく","foreign country","waller",
 1203620,"外国","そとぐに","foreign country","jmdict","がいこく"
 1203650,"外国人","がいこくじん","Foreigner","waller",
@@ -866,11 +835,8 @@
 1006980,,"それから","after that","waller",
 1006980,"其れから","それから","after that","jmdict","それから"
 1406050,,"それでは","in that situation","waller",
-1406050,"其れでは","それでは","in that situation","jmdict","それでは"
 2858616,,"それじゃ","in that situation","jmdict","それでは"
-2858616,"其れじゃ","それじゃ","in that situation","jmdict","それでは"
 2858616,,"それじゃあ","in that situation","jmdict","それでは"
-2858616,"其じゃあ","それじゃあ","in that situation","jmdict","それでは"
 1413240,"大学","だいがく","university","waller",
 1413240,"大學","だいがく","university","jmdict","大学"
 1413890,"大使館","たいしかん","embassy","waller",
@@ -892,7 +858,6 @@
 1076190,,"タクシー","taxi","waller",
 1338180,"出す","だす","to put out","waller",
 1597040,"立つ","たつ","to stand","waller",
-1597040,"発つ","たつ","to stand","jmdict","立つ"
 1335640,"縦","たて","length,height","waller",
 1335640,"竪","たて","length,height","jmdict","縦"
 1335640,"経","たて","length,height","jmdict","縦"
@@ -1025,7 +990,6 @@
 1598680,"時時","ときどき","sometimes","jmdict","時々"
 1598680,"時どき","ときどき","sometimes","jmdict","時々"
 1316140,"時計","とけい","watch,clock","waller",
-1316140,"時計","ときはかり","watch,clock","jmdict","とけい"
 1316140,"土圭","とけい","watch,clock","jmdict","時計"
 1577140,,"どこ","where","waller",
 1577140,"何処","どこ","where","jmdict","どこ"
@@ -1109,9 +1073,6 @@
 1529530,"失くす","なくす","to lose something","jmdict","無くす"
 1577120,,"なぜ","why","waller",
 1577120,"何故","なぜ","why","jmdict","なぜ"
-1577120,,"なにゆえ","why","jmdict","なぜ"
-1577120,"何故","なにゆえ","why","jmdict","なぜ"
-1577120,"何ゆえ","なにゆえ","why","jmdict","なぜ"
 1191320,"夏","なつ","summer","waller",
 1191420,"夏休み","なつやすみ","summer holiday","waller",
 1582300,,"など","et cetera","waller",
@@ -1183,7 +1144,6 @@
 1352570,"登る","のぼる","to climb","waller",
 1352570,"上る","のぼる","to climb","jmdict","登る"
 1352570,"昇る","のぼる","to climb","jmdict","登る"
-1352570,"陞る","のぼる","to climb","jmdict","登る"
 1600430,"飲み物","のみもの","a drink","waller",
 1600430,"飲みもの","のみもの","a drink","jmdict","飲み物"
 1600430,"飲物","のみもの","a drink","jmdict","飲み物"
@@ -1303,13 +1263,10 @@
 1576150,"１人","いちにん","one person","jmdict","一人"
 1576150,"独り","ひとり","one person","jmdict","一人"
 1577280,"暇","ひま","free time","waller",
-1577280,"暇","いとま","free time","jmdict","ひま"
 1577280,"閑","ひま","free time","jmdict","暇"
-1577280,"遑","いとま","free time","jmdict","暇"
 1577280,,"ヒマ","free time","jmdict","暇"
 1488000,"百","ひゃく","hundred","waller",
 1488000,"１００","ひゃく","hundred","jmdict","百"
-1488000,"百","もも","hundred","jmdict","ひゃく"
 1488000,"陌","ひゃく","hundred","jmdict","百"
 1488000,"陌","はく","hundred","jmdict","百"
 1488000,"佰","ひゃく","hundred","jmdict","百"
@@ -1415,7 +1372,6 @@
 1527110,,"いまだ","yet,still","jmdict","まだ"
 1527110,"未だ","いまだ","yet,still","jmdict","まだ"
 1603990,"町","まち","town,city","waller",
-1603990,"町","ちょう","town,city","jmdict","まち"
 1603990,"街","まち","town,city","jmdict","町"
 1410590,"待つ","まつ","to wait","waller",
 1410590,"俟つ","まつ","to wait","jmdict","待つ"
@@ -1567,7 +1523,6 @@
 1307040,"４つ","よつ","four","jmdict","四つ"
 1266440,"呼ぶ","よぶ","to call out,to invite","waller",
 1266440,"喚ぶ","よぶ","to call out,to invite","jmdict","呼ぶ"
-1266440,"招ぶ","よぶ","to call out,to invite","jmdict","呼ぶ"
 1456360,"読む","よむ","to read","waller",
 1536350,"夜","よる","evening,night","waller",
 1536350,"夜","よ","evening,night","jmdict","よる"
@@ -1592,7 +1547,6 @@
 1557110,"冷蔵庫","れいぞうこ","refrigerator","waller",
 1144940,,"レコード","record","waller",
 1145310,,"レストラン","restaurant","waller",
-1145310,,"レストラント","restaurant","jmdict","レストラン"
 1559160,"練習","れんしゅう","to practice","waller",
 1560670,"廊下","ろうか","corridor","waller",
 1585310,"六","ろく","six","waller",
@@ -1623,7 +1577,6 @@
 1444680,"弥る","わたる","to go across","jmdict","渡る"
 1151260,"悪い","わるい","bad","waller",
 1151260,"惡い","わるい","bad","jmdict","悪い"
-1151260,"惡るい","わるい","bad","jmdict","悪い"
 1013190,,"より","Used for comparison.","waller",
 1516930,"方","ほう","Used for comparison.","waller",
 1000420,"彼の","あの","that,those,the","coto",
