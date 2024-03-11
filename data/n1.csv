@@ -527,7 +527,6 @@
 2847901,"塩","えん","salt","waller",
 1615260,"艶","えん","charming, fascinating, voluptuous","waller",
 2854424,"園","えん","garden (esp. man-made)","waller",
-1176240,"苑","その","garden (esp. man-made)","jmdict","園"
 1576570,"円滑","えんかつ","harmony, smoothness","waller",
 1576570,"円滑","えんこつ","harmony, smoothness","jmdict","えんかつ"
 1177630,"縁側","えんがわ","veranda, porch, balcony, open corridor","waller",
@@ -599,8 +598,8 @@
 1262520,"厳か","おごそか","austere, majestic, dignified, stately, awful, impressive","waller",
 2857913,"傲る","おごる","to be proud","waller",
 2857913,,"おごる","to be proud","jmdict","傲る"
-1565940,"奢る","おごる","to treat (someone) to (something); to give (someone) a treat; to buy (someone a meal, drink, etc.)","jmdict","傲る"
 2857913,"驕る","おごる","to be proud","jmdict","傲る"
+1565940,"奢る","おごる","to treat (someone) to (something); to give (someone) a treat; to buy (someone a meal, drink, etc.)","jisho","傲る"
 2647190,"長","おさ","chief, head","waller",
 1589080,"押さえる","おさえる","to stop, to restrain, to seize, to repress, to suppress, to press down","waller",
 1002280,"お先に","おさきに","before, ahead, previously","waller",
@@ -945,8 +944,6 @@
 1208840,"且つ","かつ","yet, and","waller",
 1208840,,"かつ","yet, and","jmdict","且つ"
 1208840,"且","かつ","yet, and","jmdict","且つ"
-1606800,"割","わり","rate,ratio,ten percent,match,discount","jmdict",
-1606800,"割り","わり","rate,ratio,ten percent,match,discount","jmdict",
 1581210,"嘗て","かつて","once, ever","waller",
 1581210,,"かつて","once, ever","jmdict","嘗て"
 1581210,"曾て","かつて","once, ever","jmdict","嘗て"

@@ -281,7 +281,6 @@
 1319750,"喪う","うしなう","to lose,to part with","jmdict","失う"
 1225510,"疑う","うたがう","to doubt,to distrust,to be suspicious of,to suspect","waller",
 1171300,"宇宙","うちゅう","universe,cosmos,space","waller",
-1478010,"討つ","うつ","to attack,to defeat,to destroy","jmdict","撃つ"
 1253570,"撃つ","うつ","to shoot","waller",
 1253570,"射つ","うつ","to shoot","jmdict","撃つ"
 1158160,"移す","うつす","to remove,to transfer,to infect","waller",
@@ -818,8 +817,6 @@
 1248710,"軍隊","ぐんたい","army,troops","waller",
 1247470,"訓練","くんれん","practice,training","waller",
 2080200,"下","げ","lowness,second volume (of two),third volume (of three)","waller",
-2004390,"下","もと","under (guidance),under (a flag),(someone's) side","jmdict",
-2004390,"許","もと","under (guidance),under (a flag),(someone's) side","jmdict",
 1252050,"計","けい","plan","waller",
 1250720,"敬意","けいい","respect,honour","waller",
 1251130,"経営","けいえい","management,administration","waller",
@@ -939,14 +936,6 @@
 1266470,"呼吸","こきゅう","breath,respiration","waller",
 2853884,"故郷","こきょう","home town,birthplace,old village,historic village","waller",
 2853884,,"こきょう","home town,birthplace,old village,historic village","jmdict","故郷"
-1603050,,"ふるさと","home town,birthplace,old village,historic village","jmdict","故郷"
-1603050,"故郷","ふるさと","home town,birthplace,old village,historic village","jmdict","こきょう"
-1603050,"ふる里","ふるさと","home town,birthplace,old village,historic village","jmdict","故郷"
-1603050,"古里","ふるさと","home town,birthplace,old village,historic village","jmdict","故郷"
-1603050,"旧里","ふるさと","home town,birthplace,old village,historic village","jmdict","故郷"
-1603050,,"きゅうり","home town,birthplace,old village,historic village","jmdict","故郷"
-1603050,"旧里","きゅうり","home town,birthplace,old village,historic village","jmdict","故郷"
-1603050,"故里","ふるさと","home town,birthplace,old village,historic village","jmdict","故郷"
 1240180,"極","ごく","quite,very","waller",
 1240180,,"ごく","quite,very","jmdict","極"
 1240180,"極く","ごく","quite,very","jmdict","極"
@@ -1032,7 +1021,6 @@
 1235950,"境","きょう","border,boundary,mental state","jmdict","さかい"
 1235950,"界","さかい","border,boundary,mental state","jmdict","境"
 1226990,"逆らう","さからう","to go against,to oppose,to disobey,to defy","waller",
-1379640,"盛り","さかり","height (e.g. of summer),peak,full bloom","jmdict",
 1379650,"盛り","もり","serving (of food),helping","waller",
 1297540,"作業","さぎょう","work,operation,manufacturing,fatigue duty","waller",
 1298200,"昨","さく","last (year),yesterday","waller",
@@ -1051,10 +1039,6 @@
 1583260,"避ける","よける","(1) to avoid (physical contact ),(2) to ward off,to avert","jmdict","さける"
 1583260,"除ける","よける","(1) to avoid (physical contact ),(2) to ward off,to avert","jmdict","避ける"
 1310090,"支える","ささえる","to support,to prop,to sustain,to defend","waller",
-1607170,"支える","つかえる","to get stuck,to be busy,to be blocked,to choke,to be obstructed","jmdict",
-1607170,"支える","つっかえる","to get stuck,to be busy,to be blocked,to choke,to be obstructed","jmdict",
-1607170,"閊える","つかえる","to get stuck,to be busy,to be blocked,to choke,to be obstructed","jmdict",
-1607170,"閊える","つっかえる","to get stuck,to be busy,to be blocked,to choke,to be obstructed","jmdict",
 1309670,"指す","さす","to point,to put up umbrella,to play","waller",
 1291880,"座席","ざせき","seat","waller",
 1541900,"誘う","さそう","(1) to invite,to ask,(2) to tempt,to lure,to induce","waller",
@@ -1585,7 +1569,6 @@
 1409800,"対","たい","pair,couple,set","waller",
 1409800,"對","たい","pair,couple,set","jmdict","対"
 2082450,"大","だい","large,big,-big,university","waller",
-2082140,"大","おお","large,big,older,senior,final,ultimate","jmdict",
 1412560,"台","だい","stand,rack,table,support","waller",
 1415470,"題","だい","title,subject,theme,topic","waller",
 1409200,"体育","たいいく","physical education,gymnastics,athletics","waller",

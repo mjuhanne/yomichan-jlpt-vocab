@@ -113,11 +113,7 @@
 1296400,,"ある","to be,to have (used for inanimate objects)","jmdict","有る"
 1296400,"在る","ある","to be,to have (used for inanimate objects)","jmdict","有る"
 1514320,"歩く","あるく","to walk","waller",
-2847612,,"あれ","huh?,what?,oh!,hey!,look!","waller",
-2847612,,"あれっ","huh?,what?,oh!,hey!,look!","jmdict","あれ"
-2847612,,"あれえ","huh?,what?,oh!,hey!,look!","jmdict","あれ"
-2847612,,"あれー","huh?,what?,oh!,hey!,look!","jmdict","あれ"
-2847612,,"あれー","huh?,what?,oh!,hey!,look!","jmdict","あれ"
+1000580,,"あれ","that","waller",
 1000580,"彼れ","あれ","that","jmdict","あれ"
 1000580,"彼","あれ","that","jmdict","あれ"
 2820690,,"いい","good","waller",
@@ -1018,12 +1014,6 @@
 1189360,,"どちら","which of two","waller",
 1189360,"何方","どちら","which of two","jmdict","どっち"
 1189360,"何方","どっち","which of two","jmdict","どちら"
-2858702,,"いずかた","which way, which direction, where","jmdict","どっち・どちら"
-2858702,"何方","いずかた","which way, which direction, where","jmdict","どっち・どちら"
-2858703,,"いずち","which way, which direction, where","jmdict","どっち・どちら"
-2858703,"何方","いずち","which way, which direction, where","jmdict","どっち・どちら"
-1189360,,"どち","which of two","jmdict","どっち・どちら"
-1189360,"何方","どち","which of two","jmdict","どっち・どちら"
 1189360,,"どっち","which","waller",
 1008630,,"とても","very","waller",
 1008630,"迚も","とても","very","jmdict","とても"
@@ -1579,4 +1569,5 @@
 1151260,"惡い","わるい","bad","jmdict","悪い"
 1013190,,"より","Used for comparison.","waller",
 1516930,"方","ほう","Used for comparison.","waller",
-1000420,"彼の","あの","that,those,the","coto",
+1000420,,"あの","that,those,the","waller",
+1000420,"彼の","あの","that,those,the","jmdict",
